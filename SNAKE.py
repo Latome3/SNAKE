@@ -3,7 +3,7 @@
 
 import SPTEST
 import pygame
-from tkinter import *
+from tkinter import 
 import threading
 import os
 
