@@ -1,9 +1,9 @@
 #Ce fichier contient un jeu fait entierement en python
-# Le joueur doit se servir des touches "DOWN" "LEFT" "RIGHT" "UP" pour diriger un serpent dan le but de manger la pomme
+#Le joueur doit se servir des touches "DOWN" "LEFT" "RIGHT" "UP" pour diriger un serpent dan le but de manger la pomme
 
 import SPTEST
 import pygame
-from tkinter import 
+from tkinter import *
 import threading
 import os
 
